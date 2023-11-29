@@ -1,3 +1,3 @@
 # Accessable Links
 
-1. [Imaginaide](https://amannegi.github.io/imaginaide/)
+1. [Imaginaide](https://amannegi.github.io/imaginaide/) - Flutter Landing Page
